@@ -1,2 +1,2 @@
 # HTML
-For my  building my custom docker image
+For building my custom docker image
